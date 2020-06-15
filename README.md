@@ -5,6 +5,10 @@ ffmpeg-nginx-stream-server
 2. https://www.nginx.com/blog/video-streaming-for-remote-learning-with-nginx/
 3. https://obsproject.com/
 4. https://benwilber.github.io/nginx/rtmp/live/video/streaming/2018/03/25/building-a-live-video-streaming-website-part-1-start-streaming.html
+5. https://stackoverflow.com/questions/1735933/streaming-via-rtsp-or-rtp-in-html5
+6. https://videojs.com/
+7. https://www.npmjs.com/package/videojs-contrib-hls
+
 
 ##### install
 ```sh
