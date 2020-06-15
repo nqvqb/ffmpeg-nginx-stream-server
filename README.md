@@ -8,6 +8,11 @@ ffmpeg-nginx-stream-server
 5. https://stackoverflow.com/questions/1735933/streaming-via-rtsp-or-rtp-in-html5
 6. https://videojs.com/
 7. https://www.npmjs.com/package/videojs-contrib-hls
+8. https://www.kurento.org/
+9. https://realpython.com/getting-started-with-django-channels/
+10. https://blog.heroku.com/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
+11. https://dzone.com/articles/hls-streaming-by-nginx-and-apche-tomcat
+12. https://flashphoner.com/browser-based-webrtc-stream-from-rtsp-ip-camera-with-low-latency/
 
 
 ##### install
